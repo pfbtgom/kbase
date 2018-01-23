@@ -1,0 +1,2 @@
+- Should nodes be higher-level facts?
+    - Can nodes have varying levels of info?
